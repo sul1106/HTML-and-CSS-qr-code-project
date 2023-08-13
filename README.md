@@ -24,8 +24,8 @@ My challenge was to build out a QR code component and get it looking as close to
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Repository URL](https://github.com/sul1106/HTML-and-CSS-qr-code-project.git)
+- Live Site URL: [Live Site URL](https://sul1106.github.io/HTML-and-CSS-qr-code-project/)
 
 ## My process
 
