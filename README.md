@@ -18,7 +18,8 @@ My challenge was to build out a QR code component and get it looking as close to
 
 ### Screenshot
 
-![image](https://github.com/sul1106/HTML-and-CSS-qr-code-project/assets/136924369/7a1f8e07-b07c-4ad1-a004-7de9f9e91134)
+![image](https://github.com/sul1106/HTML-and-CSS-qr-code-project/assets/136924369/b598f39f-9fd1-4686-8952-ed7640a67f90)
+
 
 
 ### Links
@@ -42,8 +43,8 @@ I learnt how to center an image on the screen using the css property of margin a
 
 ### Useful resources
 
-- [Resource 1](https://www.w3schools.com) - This helped me get useful informations of various components of html and css. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.developer.mozilla.org) - This is an amazing article which helped me understand the workings and attributes. I'd recommend it to anyone still learning this concept.
+- [W3 Schools](https://www.w3schools.com) - This helped me get useful informations of various components of html and css. I really liked this pattern and will use it going forward.
+- [MDN Web docs](https://www.developer.mozilla.org) - This is an amazing article which helped me understand the workings and attributes. I'd recommend it to anyone still learning this concept.
 
 ## Author
 - Frontend Mentor - [@sul1106](https://www.frontendmentor.io/profile/sul1106)
